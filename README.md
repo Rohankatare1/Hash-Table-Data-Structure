@@ -24,3 +24,5 @@ It demonstrates:
 ```python
 hashCode += ord(element) * (a ** (wordLen - 1 - i))
 indexInTable = hashCode % tableSize
+
+Author: Rohan Katare
